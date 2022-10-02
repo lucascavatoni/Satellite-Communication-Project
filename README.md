@@ -8,7 +8,7 @@ The main project idea was to simulate a satellite control center. Each satellite
 
 ![](images/base.png)
 
-## Extensions
+## Extension
 
 After the base project, we worked as a group of 4 to make extensions. Each member of the group had his own extension, that had to be implemented in the final group project. As my code was the cleanest (or less messy) and written in english (international students in the group), my code was chosen as base. I wrote an extension to simulate data acquisition that included floats and images. Data had then to be stored on non-volatile memory (i.e. Data had to be saved after program exit). Data needed to be accessed again. Finally, the extension included a search engine.
 
@@ -20,3 +20,5 @@ Thus, the extension featured :
 - Data searching
 
 ![](images/extension.png)
+
+The final project was assembled with all the extensions and worked flawlessly. We were marked with a full grade.
