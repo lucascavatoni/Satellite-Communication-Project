@@ -2,6 +2,6 @@
 
 Satellite Communication Project in Java (school project)
 
-![](images/base)
+![](images/base.png)
 
-![](images/extension)
+![](images/extension.png)
